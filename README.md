@@ -1,1 +1,1 @@
-# https://conho-web.github.io/isuzu/
+# conho-web.github.io/isuzu/
